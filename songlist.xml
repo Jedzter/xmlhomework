@@ -1,6 +1,5 @@
-
+    <?xml-stylesheet href="my-style.css"?>
     <LISTS>
-
         <SONG>
             <TITLE>How do you sleep?</TITLE>
             <ARTIST>Sam Smith</ARTIST>
